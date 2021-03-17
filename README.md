@@ -4,3 +4,8 @@
  * React
  * Next
  * TypeScript
+ * Prettier
+ * ESLint
+ * Husky
+ * EditorConfig
+ * Lint-Staged
