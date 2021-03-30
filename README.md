@@ -9,3 +9,5 @@
  * Husky
  * EditorConfig
  * Lint-Staged
+ * Jest
+ *
