@@ -1,5 +1,7 @@
 <h1 align="center">Boilerplate - React Avançado </h1>
 
+<h2>
+
 ## Tecnologias e Bibliotecas
  * React
  * Next
@@ -10,4 +12,6 @@
  * EditorConfig
  * Lint-Staged
  * Jest
+ * Jest-dom
+ * Testing Library
  *
